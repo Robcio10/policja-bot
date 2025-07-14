@@ -178,3 +178,5 @@ async def interwencja_zlecona(interaction: discord.Interaction, opis: str, miejs
 # === URUCHOMIENIE BOTA ===
 TOKEN = os.getenv("DISCORD_TOKEN")
 bot.run(TOKEN)
+
+# Komentarz testowy do wywołania deploya
